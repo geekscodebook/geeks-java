@@ -1,4 +1,4 @@
-package com.geeksjava.solr;
+package com.geeksjava.pdf;
 
 import static org.junit.Assert.assertTrue;
 
